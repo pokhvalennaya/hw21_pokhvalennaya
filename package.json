@@ -1,0 +1,25 @@
+{
+  "name": "hw21_pokhvalennaya",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pokhvalennaya/hw21_pokhvalennaya.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pokhvalennaya/hw21_pokhvalennaya/issues"
+  },
+  "homepage": "https://github.com/pokhvalennaya/hw21_pokhvalennaya#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}

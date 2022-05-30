@@ -1,0 +1,7 @@
+[
+  { "id": 1, "brand": "Apple", "year": "2021", "price": "$700" },
+  { "id": 2, "brand": "Samsung", "year": "2022", "price": "$600" },
+  { "id": 3, "brand": "Redmi", "year": "2021", "price": "$500" },
+  { "id": 4, "brand": "Huawei", "year": "2021", "price": "$550" },
+  { "id": 5, "brand": "Lenovo", "year": "2022", "price": "$500" }
+]
